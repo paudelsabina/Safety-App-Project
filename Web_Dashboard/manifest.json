@@ -1,0 +1,21 @@
+{
+  "name": "Nepal Emergency App",
+  "short_name": "Nepal Emergency",
+  "description": "Free bilingual SOS app for Nepal — Police 100, Ambulance 102, Fire 101, blood donor finder and offline first-aid guide.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0B0B0F",
+  "theme_color": "#DC2626",
+  "lang": "en",
+  "categories": ["health", "medical", "utilities", "lifestyle"],
+  "icons": [
+    {
+      "src": "/icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

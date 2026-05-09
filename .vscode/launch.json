@@ -6,23 +6,9 @@
     "configurations": [
         {
             "name": "safety_app",
-            "cwd": "safety_app",
+            "cwd": "Citizen_App\\safety_app",
             "request": "launch",
             "type": "dart"
-        },
-        {
-            "name": "safety_app (profile mode)",
-            "cwd": "safety_app",
-            "request": "launch",
-            "type": "dart",
-            "flutterMode": "profile"
-        },
-        {
-            "name": "safety_app (release mode)",
-            "cwd": "safety_app",
-            "request": "launch",
-            "type": "dart",
-            "flutterMode": "release"
         }
     ]
 }
